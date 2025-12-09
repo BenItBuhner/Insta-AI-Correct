@@ -1,5 +1,5 @@
 # Overview
-This is a very fast auto-correct (AutoHotKey script) that corrects any highlighted text in mere milliseconds with the speed and performance of Groq.
+This is a very fast auto-correct (AutoHotKey script) that corrects any highlighted text in mere milliseconds with the speed and performance of Groq, currently only functional on Windows.
 
 # Versatility
 This can be used with other providers as well when augmenting the payload to adapt to other providers such as Cerebras, OpenAI, Anthropic, Google, and more. (These will be integrated later on as progress continues.)
