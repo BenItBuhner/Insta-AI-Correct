@@ -19,6 +19,8 @@ This was built to be the most rapid, efficient, and useful text correction tool.
 2. Press `Ctrl + Alt + R`, which is where the magic happens.
 3. That's it! Your text will be corrected nearly instantly with the speed and precision of Kimi K2 on Groq.
 
+![Quick Demonstration](assets/quick-correct-demo.gif)
+
 # Use-Cases for This
 Some may find it unnecessary if they type well or already have automatic autocorrect, but this is very useful for a wide array of purposes:
 - Some tools have poor auto-correct or *no* auto-correct support — this works there.
