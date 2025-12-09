@@ -10,6 +10,7 @@ It is *very* easy to set this up, and it is a one-time setup process. All you ne
 2. Sign up for the free tier of Groq right [here](https://console.groq.com/authenticate/signup).
 3. Get your API key from the "API Keys" section of the dashboard on Groq.
 4. Place the newly created key in the string for the `API_KEY` towards the top of the file.
+5. Save and run the file; if it is not defaulting to the AutoHotkey application, ensure you open it via that.
 
 ![Groq Dashboard — API Keys](assets/api-key-section.png)
 
